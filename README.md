@@ -27,7 +27,8 @@ Model：resnet18：
 https://arxiv.org/pdf/1512.03385.pdf
 
 # Video Link
-https://youtu.be/nkTlU3d59Ow
+https://youtu.be/rmur-M0ah_A
+
 # Main design points of the project
 This is resnet architecture with bottle neck, designed in resnet.
 
